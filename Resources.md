@@ -7,6 +7,8 @@
 | [NSA Top Ten Cybersecurity Mitigation Strategies](https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf)  |  |
 | [Finnish National Cyber Security Centre (NCSC-FI)](https://www.kyberturvallisuuskeskus.fi/en/ncsc-news/instructions-and-guides/instructions-and-manuals-private-individuals)  |  |
 | [NCSC-UK, Common Cyber Attacks: Reducing the Impact](https://www.ncsc.gov.uk/guidance/white-papers/common-cyber-attacks-reducing-impact)  |  |
+| [ENISA - Threat landscape 2024](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024)  |  |
+
 
 ## Intelligence
 
