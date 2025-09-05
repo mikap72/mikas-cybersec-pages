@@ -10,6 +10,15 @@
 | [ENISA - Threat landscape 2024](https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024)  |  |
 
 
+## Vulnerability Databases
+
+| Link      | Comment      |
+| ------------- | ------------- |
+| [CVE Org](https://www.cve.org)| |
+| [NIST Vulnerability Database](https://www.nist.gov/vuln/search)  |  |
+| [Mitre - Common Weakness Enumeration](https://cwe.mitre.org/)||
+| [NIST - Common Platform Enumeration](https://nvd.nist.gov/products/cpe) ||
+
 ## Intelligence
 
 | Link      | Comment      |
